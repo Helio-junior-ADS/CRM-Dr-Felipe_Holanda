@@ -35,3 +35,62 @@ Este projeto é um sistema de CRM (Customer Relationship Management) desenvolvid
    ```bash
    [git clone https://github.com/seuusuario/crm-clinica.git](https://github.com/Helio-junior-ADS/CRM-Dr-Felipe_Holanda.git)
    cd crm-clinica/backend
+   
+
+
+### Instale as dependências:
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Configure o banco de dados PostgreSQL e crie um arquivo .env com as variáveis necessárias:
+ ```sh
+   DATABASE_URL=postgres://usuario:senha@localhost:5432/nome_do_banco
+  ```
+### Execute as migrações para criar as tabelas:
+ ```sh
+   npm run migrate
+  ```
+### Inicie o servidor:
+ ```sh
+  npm start
+  ```
+### Configuração do Frontend
+* Clone o repositório:
+ ```sh
+  git clone https://github.com/seuusuario/crm-clinica.git
+  cd crm-clinica/frontend
+  ```
+### Instale as dependências:
+ ```sh
+  npm install
+  ```
+### Execute a aplicação:
+ ```sh
+  npm start
+  ```
+### Contribuição
+#### Se você deseja contribuir para este projeto, siga os passos abaixo:
+* Faça um fork do repositório.
+### Crie uma branch para sua nova feature:
+  ```sh
+  git checkout -b minha-nova-feature
+  ```
+### Faça suas alterações e faça commit:
+  ```sh
+  git commit -m 'Adicionando uma nova feature'
+  ```
+### Envie sua branch para o repositório remoto:
+  ```sh
+  git push origin minha-nova-feature
+  ```
+### Abra um Pull Request.
+
+# Licença
+Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
+# Contato
+Para dúvidas e sugestões, entre em contato com Dr. Felipe Holanda.
+  ```sh  
+Agora você pode copiar e colar essa seção diretamente no seu README no GitHub! Se precisar de mais alguma coisa, é só avisar.
+  ```
