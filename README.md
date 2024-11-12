@@ -92,5 +92,5 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 # Contato
 Para dúvidas e sugestões, entre em contato com Dr. Felipe Holanda.
   ```sh  
-Agora você pode copiar e colar essa seção diretamente no seu README no GitHub! Se precisar de mais alguma coisa, é só avisar.
+
   ```
