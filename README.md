@@ -89,8 +89,4 @@ Este projeto é um sistema de CRM (Customer Relationship Management) desenvolvid
 
 # Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
-# Contato
-Para dúvidas e sugestões, entre em contato com Dr. Felipe Holanda.
-  ```sh  
 
-  ```
