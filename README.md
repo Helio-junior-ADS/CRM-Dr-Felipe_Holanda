@@ -35,11 +35,10 @@ Este projeto é um sistema de CRM (Customer Relationship Management) desenvolvid
    ```bash
    [git clone https://github.com/seuusuario/crm-clinica.git](https://github.com/Helio-junior-ADS/CRM-Dr-Felipe_Holanda.git)
    cd crm-clinica/backend
-   
+    ```
 
 
 ### Instale as dependências:
-* npm
   ```sh
   npm install npm@latest -g
   ```
